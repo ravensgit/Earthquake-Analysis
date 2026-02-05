@@ -1,6 +1,16 @@
-# Earthquake Risk Analysis
+# Earthquake Risk Analysis (Team Project)
 
-An interactive web application for analyzing earthquake data and predicting earthquake risk in North America.
+This repository is a fork of a team project focused on analyzing earthquake data and predicting seismic risk in North America. I maintain this fork to showcase my individual contributions across **machine learning, data processing and application integration.
+
+## My Contributions
+- Performed data preprocessing and feature engineering on large-scale earthquake datasets (USGS)
+- Built and evaluated machine learning models for magnitude prediction (Random Forest, XGBoost, LightGBM) using RMSE and R²
+- Assisted in integrating trained ML models into the Streamlit application for interactive analysis and predictions
+- Contributed to visualization components (heatmaps, risk insights) and end-to-end testing of the application
+
+**Key Results**
+- Achieved RMSE ≈ 4–5 and R² ≈ 0.5 for earthquake magnitude prediction
+- Delivered a fully functional interactive web application for earthquake risk analysis
 
 ## Features
 
@@ -60,6 +70,6 @@ The application expects a CSV file with the following columns:
 
 ## Contributors
 
+- Naveen Manikandan 
 - Karthik Manjunath
 - Hariharan Nadanasabapathi
-- Naveen Manikandan 
